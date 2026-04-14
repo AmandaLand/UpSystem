@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+release/
+*.log
+.env
+.env.local
+.DS_Store
+data/*.jsonl
+data/*.db
+data/*.sqlite
